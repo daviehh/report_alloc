@@ -1,0 +1,8 @@
+name = "report_alloc"
+uuid = "d4d1962a-c27a-4efd-aee7-6016a5f23d13"
+authors = ["david <david@localhost>"]
+version = "0.1.0"
+
+[deps]
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+SnoopPrecompile = "66db9d55-30c0-4569-8b51-7e840670fc0c"
